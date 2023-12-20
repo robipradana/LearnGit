@@ -1,0 +1,12 @@
+{
+  "username": "username",
+  "password": "password",
+  "expected": "The payment was successfully submitted.",
+  "payee" : "bofa",
+  "account" : "5",
+  "amount" : "30",
+  "date" : "2023-12-19",
+  "description" : "buy car"
+}
+
+
